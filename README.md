@@ -1,23 +1,24 @@
 First app using the framework laravel
 
-APP: Company Manager
-Description: Admin panel to manage companies and employees
+APP: Company Manager<br/>
+Description: Admin panel to manage companies and employees<br/>
 
 ![alt text](https://i.imgur.com/m8mXuBR.png)
+*******************************************************************************************************************************************
 ![alt text](https://i.imgur.com/JVgC8AR.png)
 
 
-Basic Laravel Skills applied:
-MVC
-Auth
-CRUD and Resource Controllers
-Eloquent and Relationships
-Database migrations and seeds
-Form Validation and Requests
-File management
-Basic Bootstrap front-end
+Basic Laravel Skills applied:<br/>
+MVC<br/>
+Auth<br/>
+CRUD and Resource Controllers<br/>
+Eloquent and Relationships<br/>
+Database migrations and seeds<br/>
+Form Validation and Requests<br/>
+File management<br/>
+Basic Bootstrap front-end<br/>
 
-Database seed account- username: admin@admin.com password: password
+Database seed account- username: admin@admin.com password: password<br/>
 
 
 
